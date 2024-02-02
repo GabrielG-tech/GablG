@@ -2,19 +2,9 @@
 
 ![GabrielG-tech's Stats](https://github-readme-stats.vercel.app/api?username=GabrielG-tech&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+![GabrielG-tech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GabrielG-tech&theme=dark&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![GabrielG-tech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielG-tech&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ## Conhecimentos em  
 
