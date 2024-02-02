@@ -1,4 +1,6 @@
-# Olá eu sou a Gabriel Gomes, estudande de ADS no Instituto Infnet!!! #
+# Olá eu sou a Gabriel Gomes, estudande de ADS!!! #
+
+
 
 ## Conhecimentos em  
 
