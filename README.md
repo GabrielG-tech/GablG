@@ -1,12 +1,10 @@
-# Olá eu sou a Gabriel Gomes, estudante de ADS!!! #
+# Olá eu sou a Gabriel Gomes, Analista e Desenvolvedor de Sistemas #
 
-![GabrielG-tech's Stats](https://github-readme-stats.vercel.app/api?username=GabrielG-tech&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![GabrielG-tech's Stats](https://github-readme-stats.vercel.app/api?username=GabrielG-tech&theme=dark&show_icons=true&hide_border=false&count_private=true&locale=pt-br) ![GabrielG-tech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GabrielG-tech&theme=dark&hide_border=false&locale=pt-br)
 
-![GabrielG-tech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GabrielG-tech&theme=dark&hide_border=false)
+![GabrielG-tech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielG-tech&theme=dark&show_icons=true&hide_border=false&layout=compact&locale=pt-br)
 
-![GabrielG-tech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielG-tech&theme=dark&show_icons=true&hide_border=false&layout=compact)
-
-## Conhecimentos em  
+## Conhecimentos
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,16 +16,6 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-##
-
-## Linguagens de Programação ##
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-  
 ##
 
 ## Bibliotecas e Frameworks ##
