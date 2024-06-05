@@ -20,7 +20,7 @@ Olá galera! Sou Gabriel Gomes, nascido e criado no Rio de Janeiro, Brasil, em 2
  </p>
 
 <h3 align="left">🔥 Meus status:</h3>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielG-tech&theme=dark&hide_border=false&locale=pt-br" height="200"> &nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielG-tech&theme=dark&show_icons=true&hide_border=false&layout=compact&locale=pt-br" height="200"/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielG-tech&theme=dark&hide_border=false&locale=pt-br" height="180"> &nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielG-tech&theme=dark&show_icons=true&hide_border=false&layout=compact&locale=pt-br" height="180"/></p>
 
 ## Conhecimentos
 
