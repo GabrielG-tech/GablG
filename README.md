@@ -42,14 +42,14 @@ Olá galera! Sou Gabriel Gomes, nascido e criado no Rio de Janeiro, Brasil, em 2
 ## Bibliotecas e Frameworks ##
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a>&nbsp;&nbsp;&nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native" /> </a>&nbsp;&nbsp;&nbsp;
-<a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" /> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native" /> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" /> </a>&nbsp;&nbsp;&nbsp;
 
 ## Ferramentas ##
 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visual studio code" /> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visual studio code" /> </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>&nbsp;&nbsp;&nbsp;
 
-  <br><br>
+  <br>
   
 > "Computadores são bons em seguir instruções, mas não em ler sua mente" ~ Donald Knuth
