@@ -35,10 +35,7 @@ Olá galera! Sou Gabriel Gomes, nascido e criado no Rio de Janeiro, Brasil, em 2
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-</div>
-
-
-##
+</div><br>
 
 ## Bibliotecas e Frameworks ##
 
@@ -46,13 +43,10 @@ Olá galera! Sou Gabriel Gomes, nascido e criado no Rio de Janeiro, Brasil, em 2
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;&nbsp;
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;&nbsp;&nbsp;
 
-##
-
 ## Ferramentas ##
 
   ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;&nbsp;&nbsp;
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;
+  <br><br>
   
-##
-
 > "Computadores são bons em seguir instruções, mas não em ler sua mente" ~ Donald Knuth
